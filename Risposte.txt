@@ -3,3 +3,5 @@ automaticamente con la repository online collegata? --> Falso
 
 2) Qual è il nuovo nome standard del branch principale utilizzato come
 convenzione in GIT? --> Main
+
+3) Come descriveresti il workflow dei comandi di GIT? --> git add -> git commit -> git push
