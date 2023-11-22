@@ -8,3 +8,5 @@ convenzione in GIT? --> Main
 
 4) Qual è il comando da utilizzare per vedere l’elenco di tutte le commit del
 branch in cui ci si trova e i loro hashcode? --> git log
+
+5) Scrivi il comando per effettuare il rollback ad una commit precedente --> git reset --hard [hash commit precedente]
