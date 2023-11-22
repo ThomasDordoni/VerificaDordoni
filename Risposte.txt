@@ -1,3 +1,5 @@
 1) Le commit create in una repository locale, vengono sincronizzate
 automaticamente con la repository online collegata? --> Falso
 
+2) Qual è il nuovo nome standard del branch principale utilizzato come
+convenzione in GIT? --> Main
