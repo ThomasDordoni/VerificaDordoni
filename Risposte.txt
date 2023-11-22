@@ -19,3 +19,7 @@ branch in cui ci si trova e i loro hashcode? --> git log
 creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche
 di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
 visti in classe. --> I branches sono rami di sviluppo dove i membri posso lavorare separatamente da altri membri; è possibile creare un nuovo branch con git checkout -b [nome branch] e per spostarsi da un ramo ad un altro si utilizza git checkout [nome branch]; per unire le modifiche da un ramo ad un altro si deve per prima cosa andare nel ramo dove si vuole che vengano unite le informazione e successivamente va digitato git merge [nome del ramo da unire] e per vedere su che ramo sto operando devo fare git status
+
+9) Spiega di cosa si occupa l’ingegneria del software --> l'ingegneria del software è una parte dell'informatica legata alla progettazione , produzione, riutilizzo e manutenzione di un software, dove operano gli stakeholder che sono le persone coinvolte (possono essere clienti o fornitori).
+La progettazione è lo studio un problema per la ricerca di una soluzione, la produzione è l'insieme delle fasi che portano allo sviluppo del programma, il riutilizzo è semplicemente quando  riutilizzo parti di programmi già fatti in precedenza per lo sviluppo di quello nuovo e infine la manutenzione è la modifica e l'aggiornamento del programma 
+
