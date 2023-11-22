@@ -14,3 +14,8 @@ branch in cui ci si trova e i loro hashcode? --> git log
 6) Scrivi due motivazioni per giustificare l’utilizzo di GIT --> Una motivazione è che rende possibile il valoro in gruppo, anche formato da molte persone, senza intralciarsi l'uno con l'altro grazie alla programmazione parallela, la seconda è che ha la possibilità di trasmettere i branch da locale a online con anche la possibilità di unirli così che ognuno possa lavorare sul proprio pc localmente e quando necessita può condividere con altri membri il lavoro online.
 
 7) Spiega la differenza tra git clone e git pull. --> git clone clona tutta la repository da online a locale senza il bisogno di fare ne una cartella ne di utilizzare git init, perchè creera una cartella automaticamente; invece git pull in base al branch inserito trasferirà tutto il contenuto di quel branch da online a locale e, contrariamente a git clone, bisognerà creare una cartella.
+
+8) Descrivi cosa sono i rami di sviluppo in GIT (branches). Spiega inoltre come si
+creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche
+di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
+visti in classe. --> I branches sono rami di sviluppo dove i membri posso lavorare separatamente da altri membri; è possibile creare un nuovo branch con git checkout -b [nome branch] e per spostarsi da un ramo ad un altro si utilizza git checkout [nome branch]; per unire le modifiche da un ramo ad un altro si deve per prima cosa andare nel ramo dove si vuole che vengano unite le informazione e successivamente va digitato git merge [nome del ramo da unire] e per vedere su che ramo sto operando devo fare git status
