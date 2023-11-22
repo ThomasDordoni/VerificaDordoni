@@ -10,3 +10,5 @@ convenzione in GIT? --> Main
 branch in cui ci si trova e i loro hashcode? --> git log
 
 5) Scrivi il comando per effettuare il rollback ad una commit precedente --> git reset --hard [hash commit precedente]
+
+6) Scrivi due motivazioni per giustificare l’utilizzo di GIT --> Una motivazione è che rende possibile il valoro in gruppo, anche formato da molte persone, senza intralciarsi l'uno con l'altro grazie alla programmazione parallela, la seconda è che ha la possibilità di trasmettere i branch da locale a online con anche la possibilità di unirli così che ognuno possa lavorare sul proprio pc localmente e quando necessita può condividere con altri membri il lavoro online.
